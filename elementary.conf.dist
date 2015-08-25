@@ -1,0 +1,4 @@
+# ElementarySMS API Configuration
+NOTIFY_NUMBER='+4071234567890'
+ELEMENTARYSMS_API_URL='http://elementary.your-domain.com/api'
+ELEMENTARYSMS_API_KEY='XXXXXXXX'
